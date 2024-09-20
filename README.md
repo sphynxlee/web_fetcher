@@ -116,5 +116,5 @@ last_fetch: Fri Sep 20 2024 02:37 UTC
 ## **Docker Support**
 
 - **Docker Compose**: Use Docker Compose to run this script in a containerized environment. A basic `docker-compose.yml` file can be included to handle dependencies such as requests and BeautifulSoup.
-
+- **Docker Usage**: See the `DockerUsage.md` files for more information on how to build and run the script in a Docker container.
 
